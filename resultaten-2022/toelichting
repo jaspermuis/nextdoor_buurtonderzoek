@@ -12,3 +12,9 @@ Denk hierbij aan relatief kleine gemeenten zoals Urk, Vlieland, Baarle-Nassau, O
 Bij de analyse zijn alleen buurten meegenomen met minstens 20 respondenten (die een score hebben op het rapportcijfer). 
 Daarom gaat het maar om een relatief kleine selectie van buurten in Nederland: in het overzicht staan 189 buurten.
 Vermeld staan het gemiddelde rapportcijfer (Rapport_mean), de bijbehorende standaarddeviatie (Rapport_sd) en het aantal respondenten (N_BREAK).
+Alle buurtnamen zijn gebaseerd op de kerncijfers van wijken en buurten van het Centraal Bureau voor de Statistiek (CBS), behalve die van Amsterdam.
+In Amsterdam hebben we in veel gevallen meerdere CBS-buurten die binnen dezelfde wijk liggen samengevoegd tot iets grotere eenheden.  
+
+***
+De CBS kerncijfers van buurten, wijken en gemeenten (namen en kenmerken) zijn hier te vinden:
+https://www.cbs.nl/nl-nl/maatwerk/2021/31/kerncijfers-wijken-en-buurten-2021
