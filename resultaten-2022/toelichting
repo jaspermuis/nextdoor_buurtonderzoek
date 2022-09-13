@@ -21,7 +21,7 @@ https://www.cbs.nl/nl-nl/maatwerk/2021/31/kerncijfers-wijken-en-buurten-2021
 3) Agg_Gemeente_contact_veiligheid
 
 Het bestand is gerangschikt op basis van provincie. Daarbinnen zijn de gemeenten weergegeven naar het inwoneraantal (G_a_inw), van hoog naar laag.
-In het bestand staan de beschrijvende statistieken van de onderstaande survey-vragen: het gemiddelde en de proporties per antwoordcategorie.
+In het bestand staan per gemeente de beschrijvende statistieken (het gemiddelde en de proporties per antwoordcategorie) van de onderstaande survey-vragen: 
 
 Q8.1. De frequentie van het contact met buurtgenoten: Freq_contact
   0 = Nooit
