@@ -15,6 +15,35 @@ Vermeld staan het gemiddelde rapportcijfer (Rapport_mean), de bijbehorende stand
 Alle buurtnamen zijn gebaseerd op de kerncijfers van wijken en buurten van het Centraal Bureau voor de Statistiek (CBS), behalve die van Amsterdam.
 In Amsterdam hebben we in veel gevallen meerdere CBS-buurten die binnen dezelfde wijk liggen samengevoegd tot iets grotere eenheden.  
 
-***
 De CBS kerncijfers van buurten, wijken en gemeenten (namen en kenmerken) zijn hier te vinden:
 https://www.cbs.nl/nl-nl/maatwerk/2021/31/kerncijfers-wijken-en-buurten-2021
+
+3) Agg_Gemeente_contact_veiligheid
+
+Het bestand is gerangschikt op basis van provincie. Daarbinnen zijn de gemeenten weergegeven naar het inwoneraantal (G_a_inw), van hoog naar laag.
+In het bestand staan de beschrijvende statistieken van de onderstaande survey-vragen: het gemiddelde en de proporties per antwoordcategorie.
+
+Q8.1. De frequentie van het contact met buurtgenoten: Freq_contact
+  0 = Nooit
+  1 = Enkele keren per jaar
+  2 = Iedere maand
+  3 = Enkele keren per maand
+  4 = Wekelijks
+  5 = Dagelijks  
+
+Q8.3. De kwaliteit van het contact met buurtgenoten: Kwaliteit_contact
+  0 = Zeer onprettig
+  1 = Onprettig
+  2 = Niet prettig, niet onprettig
+  3 = Prettig
+  4 = Zeer prettig
+
+Q19. Ervaren onveiligheid in de buurt, overdag: Onveilig_overdag
+  0 = Zelden of nooit
+  1 = Soms
+  2 = Vaak
+  
+Q20. Ervaren onveiligheid in de buurt, 's avonds: Onveilig_avond
+  0 = Zelden of nooit
+  1 = Soms
+  2 = Vaak
