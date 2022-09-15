@@ -1,0 +1,27 @@
+In deze folder staan het volgende databestand (.xlsx), gebaseerd op gegevens van de online enquête in 2021 en 2022:
+
+1) Agg_Amsterdam.xlsx. 
+
+Hierin staan de gemiddelde rapportcijfers (op een schaal van 1 t/m 10) voor de buurt (Q2.1) en beschrijvende statistieken van ervaren onveiligheid (Q19 en Q20), uitgesplitst naar buurtnaam.
+
+Het bestand is gerangschikt op basis van de buurtnaam.
+We hebben hierbij niet de buurtindeling en -namen van het CBS aangehouden, maar een eigen indeling gebruikt waarbij relatief kleine buurten samengevoegd zijn. 
+En we hanteerden het criterium dat er minimaal twintig respondenten uit een buurt afkomstig moeten zijn.
+
+De CBS kerncijfers van buurten, wijken en gemeenten (namen en kenmerken) zijn hier te vinden:
+https://www.cbs.nl/nl-nl/maatwerk/2021/31/kerncijfers-wijken-en-buurten-2021
+
+Gevoelens van onveiligheid: 
+Weergegeven is de gemiddelde score, en de proportie per antwoordcategorie.
+Leesvoorbeeld: in De Weteringschans (prop = 0,81) voelt 81% van de ondervraagden (n=22) zich overdag zelden of nooit veilig in de buurt. En 62% voelt zich 's avonds nooit onveilig.  
+
+Q19. Ervaren onveiligheid in de buurt, overdag: Onveilig_overdag
+  0 = Zelden of nooit
+  1 = Soms
+  2 = Vaak
+  
+Q20. Ervaren onveiligheid in de buurt, 's avonds: Onveilig_avond
+  0 = Zelden of nooit
+  1 = Soms
+  2 = Vaak
+
