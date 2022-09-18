@@ -1,13 +1,13 @@
 In deze folder staan de volgende databestanden (.xlsx), gebaseerd op gegevens van de online enquête in 2022:
 
-1) Een overzicht van de gemiddelde rapportcijfers per gemeente. 
+(1) Een overzicht van de gemiddelde rapportcijfers per gemeente. 
 
 Het bestand is gerangschikt op basis van provincie. Daarbinnen zijn de gemiddelde rapportcijfers weergegeven van hoog naar laag.
 Bij de analyse zijn alleen gemeenten meegenomen met minstens 30 respondenten (die een score hebben op het rapportcijfer). 
 Hierdoor zijn er gemeenten afgevallen bij het bepalen van de rangordening. 
 Denk hierbij aan relatief kleine gemeenten zoals Urk, Vlieland, Baarle-Nassau, Oudewater en Tytsjerksteradiel.
 
-2) Een overzicht van de gemiddelde rapportcijfers op buurtniveau. 
+(2) Een overzicht van de gemiddelde rapportcijfers op buurtniveau. 
 
 Bij de analyse zijn alleen buurten meegenomen met minstens 20 respondenten (die een score hebben op het rapportcijfer). 
 Daarom gaat het maar om een relatief kleine selectie van buurten in Nederland: in het overzicht staan 189 buurten.
@@ -18,7 +18,24 @@ In Amsterdam hebben we in veel gevallen meerdere CBS-buurten die binnen dezelfde
 De CBS kerncijfers van buurten, wijken en gemeenten (namen en kenmerken) zijn hier te vinden:
 https://www.cbs.nl/nl-nl/maatwerk/2021/31/kerncijfers-wijken-en-buurten-2021
 
-3) Agg_Gemeente_contact_veiligheid.xlsx
+
+(3) Agg_Gemeente_Q2.2_aspecten_buurt.xlsx
+
+Dit bestand bevat de beschrijvende statistieken van survey-vraag Q2.2: 
+Wat zijn voor jou de belangrijkste aspecten bij het beoordelen van jouw buurt? (meerdere antwoorden mogelijk)
+Het bestand is gerangschikt op basis van provincie. Daarbinnen zijn de gemeenten weergegeven naar het inwoneraantal (G_a_inw), van hoog naar laag.
+
+Leesvoorbeeld: 56% vd respondenten uit gemeente Groningen (n=192) vindt het eerstgenoemde aspect belangrijk (Aanbod en kwaliteit van voorzieningen)  
+
+De mate van stedelijkheid van het CBS [st_mvs] is ook per gemeente opgenomen:
+  1: zeer sterk stedelijk >= 2500 adressen per km²
+  2: sterk stedelijk 1500 - 2500 adressen per km²
+  3: matig stedelijk 1000 - 1500 adressen per km²
+  4: weinig stedelijk 500 - 1000 adressen per km²
+  5: niet stedelijk < 500 adressen per km² 
+
+
+(4) Agg_Gemeente_contact_veiligheid.xlsx
 
 Het bestand is gerangschikt op basis van provincie. Daarbinnen zijn de gemeenten weergegeven naar het inwoneraantal (G_a_inw), van hoog naar laag.
 In het bestand staan per gemeente de beschrijvende statistieken (het gemiddelde en de proporties per antwoordcategorie) van de onderstaande survey-vragen: 
@@ -47,3 +64,5 @@ Q20. Ervaren onveiligheid in de buurt, 's avonds: Onveilig_avond
   0 = Zelden of nooit
   1 = Soms
   2 = Vaak
+
+
