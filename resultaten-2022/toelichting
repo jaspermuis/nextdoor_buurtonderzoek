@@ -34,8 +34,15 @@ De mate van stedelijkheid van het CBS [st_mvs] is ook per gemeente opgenomen:
   4: weinig stedelijk 500 - 1000 adressen per km²
   5: niet stedelijk < 500 adressen per km² 
 
+(4) Agg_Gemeente_Q13.1_ergernissen_buren.xlsx
 
-(4) Agg_Gemeente_contact_veiligheid.xlsx
+Beschrijving van survey-vraag Q13.1: Erger jij je wel eens aan je buren? Zo ja, waarom? (meerdere antwoorden mogelijk). 
+
+Leesvoorbeeld: 44% vd respondenten uit gemeente Groningen (n=184) zegt zich nooit te ergeren aan buren [Q13.1_nee].
+Respondenten uit deze gemeente vullen gemiddeld 0,86 ergernis in [Q13.1_overlast_SUM].  
+
+
+(5) Agg_Gemeente_contact_veiligheid.xlsx
 
 Het bestand is gerangschikt op basis van provincie. Daarbinnen zijn de gemeenten weergegeven naar het inwoneraantal (G_a_inw), van hoog naar laag.
 In het bestand staan per gemeente de beschrijvende statistieken (het gemiddelde en de proporties per antwoordcategorie) van de onderstaande survey-vragen: 
