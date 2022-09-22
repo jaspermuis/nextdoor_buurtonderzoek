@@ -4,6 +4,10 @@ In deze folder staat het volgende databestand (.xlsx), gebaseerd op gegevens van
 
 Hierin staan de gemiddelde rapportcijfers (op een schaal van 1 t/m 10) voor de buurt (Q2.1) en beschrijvende statistieken van ervaren onveiligheid (Q19 en Q20), uitgesplitst naar buurtnaam.
 
+Gemiddelde score = Rapportcijfer_mean
+Standaarddeviatie = Rapportcijfer_sd
+Aantal respondenten = N_BREAK
+
 Het bestand is gerangschikt op basis van de buurtnaam.
 We hebben hierbij niet de buurtindeling en -namen van het CBS aangehouden, maar een eigen indeling gebruikt waarbij relatief kleine buurten samengevoegd zijn. 
 En we hanteerden het criterium dat er minimaal twintig respondenten uit een buurt afkomstig moeten zijn.
